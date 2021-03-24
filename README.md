@@ -19,6 +19,7 @@ git commit
 
  
 git history
+그동안 커밋한 내용 보기
 
 git branch
 
